@@ -47,17 +47,31 @@ The Los Angeles Sparks finished the 2024 season with a record of 8–32, ranking
 - Wing rotation lacked scoring and spacing
 
 ## Roster Outlook
-- Cameron Brink expected to return from ACL tear in 2025
-- Nneka Ogwumike’s status remains uncertain; her departure would create a major frontcourt void
-- PG/SG depth and consistent shooting remain concerns
+
+- Cameron Brink is expected to return from her ACL tear in 2025, bringing back elite rim protection and rebounding potential.
+- Nneka Ogwumike’s contract status remains unresolved. If she departs, it leaves a major leadership and frontcourt scoring gap.
+- Kelsey Plum joins the Sparks via a blockbuster trade, adding elite-level scoring, playmaking, and late-game execution to the backcourt.
+- Mercedes Russell signed as a free agent, providing reliable frontcourt depth and veteran experience as a backup center.
+- Shaneice Swain, a 2023 draftee, will join the team in 2025, adding international guard depth and scoring upside.
+- Lexie Brown, Kia Nurse, Zia Cooke, and Li Yueru have departed, opening up new depth concerns—particularly at the wing.
+
+---
 
 ## Draft Needs Summary
-| Position           | Traits Needed                                |
-|--------------------|-----------------------------------------------|
-| Backup Point Guard | Ball handling, AST/TO ratio, 3PT range        |
-| Scoring Wing       | Shot creation, perimeter shooting, versatility|
-| Stretch Forward    | Rebounding, rim protection, mobility          |
-| Defensive Guard    | Multi-positional defense, quickness           |
+
+| Position           | Traits Needed                                      |
+|--------------------|----------------------------------------------------|
+| Two-Way Forward    | Rebounding, size, defensive versatility             |
+| Backup Center      | Paint defense, rebounding, foul discipline         |
+| Bench Scoring Wing | Low-usage efficiency, perimeter shooting, spacing  |
+| Developmental Guard| Ball security, vision, long-term upside            |
+
+---
 
 ## Draft Strategy Focus
-Target players who can make an immediate impact on both ends, especially those who bring rebounding, playmaking, or shot-making. Prioritize high-IQ, low-turnover prospects with versatility and defensive reliability.
+
+With the backcourt now led by Kelsey Plum and Aari McDonald, the Sparks no longer need to prioritize a lead guard in the first round. Instead, they should focus on:
+- Forward and wing versatility to stabilize rotations
+- Rebounding and interior defense to support Brink and Russell
+- High-IQ, low-usage players who can contribute efficiently in smaller roles
+- Defensive length and switchability to anchor a playoff-caliber defense
