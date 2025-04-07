@@ -1,24 +1,28 @@
 # Draft Efficiency Model – Predicting WNBA Rookie Success
 
-This project builds a simple predictive model using NCAA advanced stats to forecast rookie-year efficiency in the WNBA.
+This project builds a statistical model to evaluate how well NCAA performance metrics predict rookie outcomes in the WNBA. By exploring multivariable regressions, positional segmentation, and draft value, this project aims to uncover trends that can support smarter draft strategy.
 
-## Focus Draft Classes
-- 2022, 2023, and 2024 WNBA draft picks
+## Key Questions
+- Which NCAA stats are most predictive of WNBA rookie success?
+- Do guards and post players follow different development curves?
+- Can we quantify value over draft slot?
+
+## Advanced Features
+- Multivariate regressions with interaction terms
+- Position-specific models
+- “Draft Value Added” score: performance vs. expected based on pick
+
+## Draft Classes Analyzed
+- 2022, 2023, 2024 WNBA Draft classes
 
 ## Metrics Used
-- NCAA Stats: PER, TS%, Usage%, Rebounds, Assists, 3PT%
-- WNBA Rookie Stats: PPG, PER, Win Shares, Minutes
+- NCAA: PER, TS%, AST/TO, 3PT%, Usage, REB%
+- WNBA: PER, Win Shares, MPG, Rookie Efficiency Tier
 
-## Questions Explored
-- Which college stats correlate most with WNBA rookie success?
-- Are certain position groups more predictable?
-- What traits separate lottery picks from second-round steals?
-
-## Tools & Methods
-- Python (pandas, scikit-learn, seaborn)
-- Data wrangling (Sports Reference + Basketball Reference)
-- Linear regression + correlation matrices
+## Tools Used
+- Python (pandas, sklearn, seaborn)
+- Excel for tiering + exploration
+- Tableau (optional comparative visuals)
 
 ## Output
-A summary report with key statistical insights, draft implications, and visualizations ranking predictor strength.
-
+Model insights, regression visualizations, and a framework for evaluating draft efficiency—applicable to front office analytics.
