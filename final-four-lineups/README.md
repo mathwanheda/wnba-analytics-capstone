@@ -1,27 +1,27 @@
 # Final Four Lineup Breakdown – 2025 NCAA Tournament
 
-This project analyzes player rotations and lineup performance for the 2025 NCAA Women's Final Four teams.
+This project analyzes the most impactful 5-player units from the 2025 NCAA Women's Final Four. By examining rotations, substitutions, and clutch-time usage, it uncovers the coaching strategies and lineup synergies that influenced team performances.
+
+## Key Questions
+- Which lineups produced the best net ratings?
+- How did coaches adjust rotations during critical game moments?
+- What role did bench depth play in each team's tournament run?
+
+## Advanced Features
+- Lineup-level net ratings per game
+- Substitution pattern tracking
+- Crunch-time analysis and coaching tendencies
 
 ## Teams Analyzed
-- South Carolina
-- UCLA
-- UConn
-- Texas
-
-## Goals
-- Identify which lineups closed games
-- Track offensive/defensive rating by rotation
-- Analyze substitution patterns and bench impact
-
-## Data Sources
-- Play-by-play logs (ESPN or NCAA)
-- Game box scores
-- Manual tracking of minutes + +/- shifts
+- South Carolina Gamecocks
+- University of Connecticut (UConn) Huskies
+- University of California, Los Angeles (UCLA) Bruins
+- University of Texas Longhorns
 
 ## Tools Used
-- Tableau (rotation dashboards)
-- Excel/Python (lineup charting and analysis)
+- Tableau (visual timelines, performance dashboards)
+- Python (optional play-by-play parsing)
+- Excel (lineup structuring)
 
 ## Output
-Visual breakdowns of high- and low-performing units, lineup trends, and which combinations impacted winning most.
-
+An interactive dashboard and comprehensive insights detailing how strategy, rotation depth, and player synergy influenced outcomes in the 2025 Final Four.
