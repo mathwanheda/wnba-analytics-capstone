@@ -41,7 +41,8 @@ Instead of rigid positional labels (PG, SG, SF, PF, C), this model uses a flexib
 
 This system better reflects modern WNBA usage, where **positional overlap and lineup fluidity** are common. Each player was tagged according to functional role, not traditional height-based designations.
 
-> **Example**: Jacy Sheldon’s fit as a low-usage off-ball guard was weighted more positively than a high-usage primary guard like Charisma Osborne, due to the Sparks’ existing ball-handlers and emphasis on spacing and defense.
+> **Example**: Aaliyah Edwards was classified as a big due to her interior finishing, defensive rebounding, and post presence, despite some face-up skill and mobility. She was evaluated in the same group as post-oriented players like Kamilla Cardoso and Mackenzie Holmes.
+
 
 ---
 
@@ -84,9 +85,13 @@ Each prospect’s final **Fit Score** reflects a weighted composite of their pos
 
 ## Data Sources & Tools
 
-All statistical data was sourced from **Her Hoop Stats** (2024–25 NCAA season). Players with limited sample sizes or insufficient minutes were filtered out during preprocessing.
+Statistical data was primarily sourced from **Her Hoop Stats** (2024–25 NCAA season), supplemented by **ESPN player pages** (height, usage notes, draft declarations) and **WNBA.com** for context on roster construction and draft history.
+
+Players with limited sample sizes or minimal playing time were filtered out during preprocessing.
 
 This model was built and refined using:
 
 - Google Sheets (Fit Score Matrix)  
-- Python (for stat normalization
+- Python (for stat normalization and score calculations)  
+- Notion (for scouting notes and role tagging)  
+- GitHub (for documentation and versioning)
