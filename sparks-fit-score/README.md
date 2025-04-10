@@ -31,7 +31,7 @@ Each trait is:
 
 Prospects are ranked into tiers: `Top Target`, `Strong Fit`, or `Depth Option`.
 
-[Download the Fit Score Matrix (Excel)](./fit_score_matrix.xlsx)
+[Download the Fit Score Matrix (Right Click -> Save As)](./fit_score_matrix.xlsx)
 
 ---
 
