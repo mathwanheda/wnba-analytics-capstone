@@ -95,3 +95,6 @@ This model was built and refined using:
 - Python (for stat normalization and score calculations)  
 - Notion (for scouting notes and role tagging)  
 - GitHub (for documentation and versioning)
+- 
+*Data sources: Her Hoop Stats, ESPN, and WNBA.com. Supplemented with manual positional tagging and scouting context.*
+
