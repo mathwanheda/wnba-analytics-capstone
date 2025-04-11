@@ -41,7 +41,7 @@ Key 2025 roster moves:
 
 This context shifted team needs toward:
 
-- 🛡Low-usage, high-IQ defenders
+- Low-usage, high-IQ defenders
 - Frontcourt depth and rebounding
 - Wings with switchability + spacing
 
