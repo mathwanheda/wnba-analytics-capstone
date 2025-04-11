@@ -85,7 +85,7 @@ Each profile includes:
 Interactive charts based on the Fit Score Matrix:
 
 - [Top 10 Sparks Draft Fits – Tableau Bar Chart](https://public.tableau.com/views/Top10SparksDraftFits-2025/Sheet1)  
-- Spacing vs Defense Quadrant – Coming Soon  
+- [Spacing vs Defensive Fit – Quadrant View](https://public.tableau.com/views/SpacingvsDefensiveFit2025SparksDraftProspects/Sheet1)
 - Radar: Citron vs Wing Avg – Coming Soon
 
 ---
