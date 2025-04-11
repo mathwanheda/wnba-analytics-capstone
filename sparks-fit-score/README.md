@@ -1,77 +1,99 @@
-# Sparks Fit Score – 2025 Draft Prospect Matching
+# 2025 WNBA Draft: LA Sparks Fit Score Matrix
 
-This project evaluates 2025 NCAA WNBA Draft prospects based on their statistical and strategic fit with the **Los Angeles Sparks**. Using a weighted scoring model, roster-based trait prioritization, and contextual scouting, it builds a ranked shortlist for Picks #9, #21, and #27.
-
----
-
-## Key Questions
-
-- What traits and positions do the Sparks most need to address in the 2025 draft?
-- Which NCAA prospects best align with those needs—statistically and contextually?
-- Can we create a **repeatable scoring model** to assist in team-specific draft decisions?
+This project builds a team-specific draft model to evaluate 2025 WNBA prospects based on how well they fit the current Los Angeles Sparks roster. The model blends advanced stats, positional modeling, and scouting context to support smarter, role-based decision-making.
 
 ---
 
-## How the Fit Score Works
+## What is the Fit Score Matrix?
 
-Each prospect is evaluated across core metrics:
+The Fit Score Matrix ranks prospects not just by talent, but by **fit** — using:
 
-- **3PT %**
-- **Assist-to-Turnover Ratio**
-- **Defensive Rating / DREB %**
-- **Usage Rate / TS %**
-- **Positional Versatility**
-- **Help Defense IQ** *(qualitative)*
-- **Secondary Playmaking** *(qualitative)*
+- **Normalized advanced stats**
+- **Role-based positional buckets (Guard / Wing / Big)**
+- **Team-specific scoring weights**
+- **Scouting summaries + secondary playmaking traits**
 
-Each trait is:
-- **Weighted by position** (Guard, Wing, Big)
-- **Normalized to a 0–100 scale**
-- Aggregated into an **Overall Fit Score** and **2-Way Impact Score**
-
-Prospects are ranked into tiers: `Top Target`, `Strong Fit`, or `Depth Option`.
-
-[Download the Fit Score Matrix (Right Click -> Save As)](./fit_score_matrix_public.xlsx)
+Each player receives a composite Fit Score based on how well they align with the **Sparks’ roster needs**, **usage profiles**, and **defensive/spatial roles**.
 
 ---
 
-## Team Context: Los Angeles Sparks (2024)
+## How to Read the Matrix
 
-The Sparks finished 12th in the WNBA (8–32) and ranked near the bottom in key efficiency metrics:
+Each row = 1 draft-eligible prospect  
+Each column = a key role-based stat (e.g. Usage, 3PT%, DREB%, AST/TO, Help IQ)
 
-- Offensive Rating: **98.6** (12th)
-- Assist-to-Turnover Ratio: **1.23** (11th)
-- Rebounding: **32.7/game** (10th)
+Final Fit Score is a weighted, normalized sum of:
 
-Key offseason moves:
-- **Kelsey Plum** acquired to lead the backcourt
-- **Cameron Brink** returns from injury
-- **Nneka Ogwumike** departs, opening a PF void
-- **Mercedes Russell** adds frontcourt depth
-
-📄 [Full team review + draft context →](./sparks_team_review.md)
+- Shooting (3PT%, Spacing Rating)
+- Defense (DRtg, STL%, Help IQ)
+- Versatility (AST/TO, Usage Rate)
+- Role Fit (positional assignment, creation profile)
 
 ---
 
-## Usage Guide: How to Read the Matrix
+## Why This Model is Sparks-Specific
 
-The Excel matrix includes:
+Key 2025 roster moves:
 
-- **Positionally weighted trait scores**
-- **Fit Tier (Top Target, Strong Fit, etc.)**
-- **Projected Pick Range**
-- **2-Way Score, OTI, DTI, and Scouting Summary**
-- **Draft board views** for Picks #9, #21, #27
+- Acquired **Kelsey Plum**
+- Lost **Nneka Ogwumike**
+- Signed **Mercedes Russell**, re-signed **Odyssey Sims**
 
-You can also browse the full gallery of top prospects in Notion:
-📎 [Sparks Draft Fit Scoreboard (Notion Gallery)](https://www.notion.so/1d19489d123c80cbb615c501fd93a9b5?pvs=21)
+This context shifted team needs toward:
+
+- 🛡Low-usage, high-IQ defenders
+- Frontcourt depth and rebounding
+- Wings with switchability + spacing
+
+See [Team Context](./team_context.md) for full breakdown.
 
 ---
 
-## Tools Used
+## Methodology
 
-- **Excel** – Scoring logic, normalization, trait weighting
-- **Python** – Radar charts, trait visuals
-- **Tableau** – Visual comparisons
-- **Notion** – Visual player cards + trait tagging
+- [Scoring Weights + Normalization](./methodology.md)
+- [Role-based Positional Tags](./scouting/)
+- [How Help Defense and AST/TO were scaled](./methodology.md#normalization-formula)
+
+---
+
+## Draft Simulations
+
+Explore what happens if targets are off the board:
+
+- [Pick 9: Wing vs Big dilemma](./simulations.md)
+- [Pick 21: Secondary creator vs specialist](./simulations.md#second-round-pick-21-targets)
+- [Pick 28: Camp depth + spacing upside](./simulations.md#third-round-pick-28-targets)
+
+---
+
+## Scouting Notes
+
+- [Top 10 Scouting Profiles](./scouting/)
+- [Extended Pool (Picks 11–30)](./scouting/extended_pool.md)
+
+Each profile includes:
+- Summary
+- Projected WNBA Role
+- Sparks Fit
+- Key Stats
+
+---
+
+## Data & Visualization
+
+- Raw data: [`/data/fit_score_matrix.xlsx`](./data/fit_score_matrix.xlsx)
+- Visual dashboard: *(coming soon via Tableau Public)*
+
+---
+
+## Version
+
+**v1.0 – April 2025 WNBA Draft**
+
+---
+
+## About
+
+Created as a capstone project for sports analytics portfolio development — with a focus on data, decision-making, and women’s basketball scouting.
 
