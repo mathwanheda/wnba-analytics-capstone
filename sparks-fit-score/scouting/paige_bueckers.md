@@ -24,4 +24,10 @@ While Bueckers has a high Fit Score, her on-ball usage may slightly overlap with
 ## Notes
 
 - High Help Defense IQ (5.0 / 5)  
-- Strong secondary creation profile  
+- Strong secondary creation profile
+
+## Radar Chart
+
+![Radar Chart](../images/player_name_radar_chart.png)
+
+*Radar chart comparing [Player Name] to average [Position] across key traits in the Sparks Fit Score Matrix.*
