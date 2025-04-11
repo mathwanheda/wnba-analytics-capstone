@@ -25,3 +25,10 @@ Her ability to contribute without requiring touches fits well alongside ball-dom
 
 - Moderate Help Defense IQ (3.5 / 5)  
 - Some passing flashes, but limited offensive creation
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/deasia_merrill_radar_chart.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Deasia Merrill to the average Big. Shows above-average usage and spacing for a post player, with room to grow defensively.*
+
