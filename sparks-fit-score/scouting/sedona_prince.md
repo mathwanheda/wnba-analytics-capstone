@@ -25,3 +25,11 @@ Prince fits a need for backup post depth. Her size and rebounding complement per
 
 - Help Defense IQ: 4.5 / 5  
 - Good finisher and screen setter
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/sedona_prince_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Sedona Prince to the average Big across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Low-usage interior big with modest spacing and defense — likely a depth option who fills a role without needing volume.
