@@ -25,3 +25,12 @@ Ustby checks multiple boxes: low-usage, defensive-minded, and willing to do the 
 
 - Help Defense IQ: 4.5 / 5  
 - One of the most consistent hustle players in the class
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/alyssa_ustby_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Alyssa Ustby to the average Wing across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Strong defender and rebounder with complementary spacing; fits as a low-maintenance glue forward with clear defensive upside.
+
