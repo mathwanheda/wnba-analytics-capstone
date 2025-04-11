@@ -67,6 +67,15 @@ Where:
 
 In some cases, **percentile rankings** were used for traits with skewed distributions or to allow easier comparison across positions.
 
+### Team-Specific Weighting
+
+The scoring model was designed with the 2025 Los Angeles Sparks roster in mind. Based on offseason transactions — including the addition of Kelsey Plum and the departure of Nneka Ogwumike — the matrix prioritizes:
+
+- Low-usage, high-IQ wings
+- Defensive versatility
+- Spacing and help-side defense
+
+
 ---
 
 ### Weighting Table
