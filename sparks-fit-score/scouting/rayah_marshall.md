@@ -25,3 +25,12 @@ Marshall fits a major Sparks need for interior defense and low-usage frontcourt 
 
 - Help Defense IQ: 5.0 / 5  
 - Very limited creation, but high impact on defense and boards
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/rayah_marshall_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Rayah Marshall to the average Big across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Dominant defensive presence with minimal usage and spacing — ideal for a role as a rim-protecting, low-touch big.
+
