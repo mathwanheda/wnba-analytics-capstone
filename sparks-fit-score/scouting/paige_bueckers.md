@@ -30,7 +30,7 @@ While Bueckers has a high Fit Score, her on-ball usage may slightly overlap with
 
 ## Radar Chart
 
-<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/fccf44e8823c45c504096bb45eafb4fa85fc358e/sparks-fit-score/images/paige_bueckers_radar_chart.png" alt="Radar Chart" width="400"/>
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/paige_bueckers_radar_chart_cleaned.png" alt="Radar Chart" width="400"/>
 
-*Radar chart comparing Paige Bueckers to the average Guard in the Sparks Fit Score Matrix. Highlights her elite combination of spacing, playmaking, and scoring versatility.*
+*Radar chart comparing Paige Bueckers to the average Guard across Spacing, Defense, 3PT Shooting, and Usage Rate.*
 
