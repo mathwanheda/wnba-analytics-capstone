@@ -25,3 +25,11 @@ Her creation ability adds value, but high-usage tendencies may limit synergy wit
 
 - Help Defense IQ: 4.0 / 5  
 - Secondary creation score: 1.0
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/diamond_johnson_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Diamond Johnson to the average Guard across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Compact scoring guard with strong spacing and defense; usage is well-managed, making her a flexible scoring option in hybrid backcourts.
