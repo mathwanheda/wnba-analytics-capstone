@@ -10,7 +10,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.2  
 **Estimated Defensive Rating:** 82.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Two-way wing who can shoot, defend, and make the right read. Capable of handling secondary creation duties and rotating across perimeter matchups. Gritty, high-effort defender.
 
 ---
 ### Makayla Timpson — Big
@@ -21,7 +21,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.52  
 **Estimated Defensive Rating:** 84.1
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Physical rebounder with interior scoring upside. Plays mostly as a finisher, but flashes some vision in short-roll actions. Active team defender with strong paint awareness.
 
 ---
 ### Serena Sundell — Guard
@@ -32,7 +32,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 2.52  
 **Estimated Defensive Rating:** 86.8
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Versatile guard with passing vision and poise. Can lead transition breaks or play as a secondary option. Disciplined help defender with solid footwork and rotation timing.
 
 ---
 ### Sania Feagin — Big
@@ -43,7 +43,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.75  
 **Estimated Defensive Rating:** 79.4
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Rim runner with shot-blocking ability. Finishes efficiently and can pass from the high post. Growing as a help defender, with good tools and improving awareness.
 
 ---
 ### Taylor Jones  — Big
@@ -54,7 +54,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.32  
 **Estimated Defensive Rating:** 74.3
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Traditional post big with rebounding presence and low usage. Not a creator, but efficient in pick-and-roll and post-ups. Reliable interior defender with strong rotation timing.
 
 ---
 ### Te-Hina Paopao — Guard
@@ -65,7 +65,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 2.31  
 **Estimated Defensive Rating:** 85.2
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Smooth-shooting combo guard with poise and vision. Can run offense in stretches, space the floor, and make smart reads. Underrated help defender with mature feel for the game.
 
 ---
 ### Ugonne Oniyah — Big
@@ -76,7 +76,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.31  
 **Estimated Defensive Rating:** 83.9
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Interior finisher with strength and physicality. Still developing as a creator but contributes on the glass and as a help defender. High-energy presence in the paint.
 
 ---
 ### Hailey Van Lith — Guard
@@ -87,7 +87,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.79  
 **Estimated Defensive Rating:** 87.1
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Score-first guard with a polished mid-range game. Can create for herself and others, especially off screens. Physical on-ball defender with competitive fire, though limited in help coverage.
 
 ---
 ### Ja'Naiya Quinerly — Guard
@@ -98,7 +98,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.01  
 **Estimated Defensive Rating:** 77.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Crafty ball handler who can penetrate and create offense. Streaky shooter with aggressive instincts. Developing as a team defender but flashes active hands and anticipation.
 
 ---
 ### Madison Hayes — Wing
@@ -109,7 +109,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.2  
 **Estimated Defensive Rating:** 90.4
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Crafty ball handler who can penetrate and create offense. Streaky shooter with aggressive instincts. Developing as a team defender but flashes active hands and anticipation.
 
 ---
 ### Lucy Olsen — Guard
@@ -120,7 +120,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.65  
 **Estimated Defensive Rating:** 93.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Efficient scoring guard with good pace control. Uses dribble pull-ups and spacing reads to create looks. Can playmake in spurts and provides solid effort defensively.
 
 ---
 ### Shyanne Sellers — Wing
@@ -131,7 +131,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.23  
 **Estimated Defensive Rating:** 95.4
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Efficient scoring guard with good pace control. Uses dribble pull-ups and spacing reads to create looks. Can playmake in spurts and provides solid effort defensively.
 
 ---
 ### Georgia Amoore — Guard
@@ -142,7 +142,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 2.24  
 **Estimated Defensive Rating:** 94.1
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Quick, high-IQ point guard with deep range. Orchestrates pick-and-rolls with confidence and contributes as a scoring and passing threat. Solid help defender with active hands.
 
 ---
 ### Aziaha James — Wing
@@ -153,7 +153,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.31  
 **Estimated Defensive Rating:** 90.1
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Explosive combo wing with microwave scoring ability. Can create space off the bounce and finish through contact. Developing team defense but brings energy and shot-making upside.
 
 ---
 ### Liatu King — Big
@@ -164,7 +164,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.79  
 **Estimated Defensive Rating:** 75.4
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Physical big who thrives in rebounding and short-roll finishing. Limited playmaker but positions well defensively. Strong help instincts and toughness in the paint.
 
 ---
 ### Temira Poindexter — Wing
@@ -175,7 +175,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.07  
 **Estimated Defensive Rating:** 85.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Lengthy forward with shot-blocking upside and transition burst. Stretches the floor and disrupts on defense. Fits best as a modern 4 with defensive versatility.
 
 ---
 ### Saniya Rivers — Wing
@@ -186,7 +186,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 2.03  
 **Estimated Defensive Rating:** 85.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Elite athlete with lockdown defensive potential. Slashes in transition and brings energy on both ends. Jumper is still developing but profiles as a disruptive two-way wing.
 
 ---
 ### Kiki Iriafen — Big
@@ -197,7 +197,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 0.75  
 **Estimated Defensive Rating:** 82.2
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Interior scorer with a soft touch and rebounding instincts. Uses footwork and strength to create in the post. Still expanding her defensive range but a capable help-side contributor.
 
 ---
 ### Madison Scott — Wing
@@ -208,7 +208,7 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 2.05  
 **Estimated Defensive Rating:** 84.7
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Glue-forward with length, rebounding, and defensive versatility. Limited shooting range but contributes through hustle, cutting, and smart help defense.
 
 ---
 ### Sonia Citron — Wing
@@ -219,4 +219,4 @@ This file includes additional Fit Matrix prospects outside the top 10, useful fo
 **AST/TO Ratio:** 1.5  
 **Estimated Defensive Rating:** 82.5
 
-**Summary:** Scouting summary not yet provided.
+**Summary:** Polished, low-usage scorer who defends and spaces the floor. Great off-ball cutter and consistent in rotations. Strong intangibles and system-friendly role player.
