@@ -26,11 +26,4 @@ While Bueckers has a high Fit Score, her on-ball usage may slightly overlap with
 - High Help Defense IQ (5.0 / 5)  
 - Strong secondary creation profile
 
----
-
-## Radar Chart
-
-<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/paige_bueckers_radar_chart_cleaned.png" alt="Radar Chart" width="400"/>
-
-*Radar chart comparing Paige Bueckers to the average Guard across Spacing, Defense, 3PT Shooting, and Usage Rate.*
 
