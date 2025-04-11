@@ -26,3 +26,11 @@ Her ability to contribute without requiring touches fits well alongside ball-dom
 - Moderate Help Defense IQ (3.5 / 5)  
 - Some passing flashes, but limited offensive creation
 
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/deasia_merrill_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Deasia Merrill to the average Big across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Traditional post profile with low spacing and 3PT shooting, but respectable defensive value and moderate usage for a frontcourt contributor.
+
