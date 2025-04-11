@@ -25,3 +25,11 @@ Though slightly more usage-heavy than ideal, Morrow’s rebounding and toughness
 
 - Help Defense IQ: 4.0 / 5  
 - Some secondary creation upside
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/aneesah_morrow_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Aneesah Morrow to the average Big across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Offensive-minded big with solid spacing and usage but below-average defensive metrics — fits best in scoring-heavy lineups.
