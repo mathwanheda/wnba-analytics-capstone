@@ -25,3 +25,12 @@ Ayrault’s size, low usage, and defensive versatility address key Sparks roster
 
 - Positional flexibility (guards 2–4)  
 - High defensive IQ and transition value
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/julia_ayrault_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Julia Ayrault to the average Wing across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+Well-rounded wing showing above-average spacing, defense, and usage — a true system-fit player who impacts without needing high volume.
+
