@@ -25,3 +25,12 @@ Though higher usage than ideal, Turner brings competitive defense and offensive 
 
 - Help Defense IQ: 4.0 / 5  
 - Secondary creation score: 1.0
+
+## Radar Chart
+
+<img src="https://github.com/mathwanheda/wnba-analytics-capstone/raw/main/sparks-fit-score/images/harmoni_turner_radar_chart_normalized.png" alt="Radar Chart" width="400"/>
+
+*Radar chart comparing Harmoni Turner to the average Guard across Spacing, Defense, 3PT Shooting, and Usage Rate.*
+
+High-usage guard with excellent 3PT shooting and defensive activity — projects as a sparkplug creator with scoring gravity.
+
